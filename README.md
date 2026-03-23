@@ -5,7 +5,7 @@ I'm a passionate front-end developer with a strong interest in building interact
 
 - 👨‍💻 Some of my projects are available at [https://smlczy.xyz](https://smlczy.xyz)
 
-- ⚡ Fun fact: **I do freelance photography**
+- ⚡ Fun fact: **I’m an avid hobbyist photographer**
 
 
 ## 🌐 Socials:
